@@ -243,7 +243,6 @@ section {
         0 0 25px #a855f755,
         inset 0 0 30px #22d3ee22;
 
-    animation: flutuar 4s ease-in-out infinite;
 }
 
 .foto-perfil {
@@ -257,16 +256,6 @@ section {
     border-radius: 50%;
 }
 
-/* Animação da moldura e foto */
-@keyframes flutuar {
-    0%, 100% {
-        transform: translateY(0);
-    }
-
-    50% {
-        transform: translateY(-12px);
-    }
-}
 
 
 /* =====================================
