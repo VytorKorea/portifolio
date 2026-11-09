@@ -7,12 +7,6 @@ Site de portfólio Front-End feito com HTML5, CSS3 e JavaScript puro.
 - `style.css` — cores, tipografia, layout, responsividade e animações.
 - `script.js` — menu mobile, navegação ativa, animações e ano automático.
 
-## Personalizações importantes
-1. No `index.html`, procure por `seuemail@exemplo.com` e substitua pelo seu e-mail.
-2. Troque os links genéricos do GitHub e LinkedIn pelos seus perfis.
-3. Na seção `Meus projetos`, substitua os três cards de exemplo pelos seus trabalhos.
-4. Atualize as tecnologias e descrições conforme avançar nas aulas.
-
 ## Como adicionar um projeto
 Duplique um bloco `<article class="project-card">...</article>` dentro de `<div class="project-grid">`.
 Altere título, descrição, etiquetas e link. Se quiser mostrar uma imagem real, substitua o conteúdo visual do bloco `.project-visual` por:
